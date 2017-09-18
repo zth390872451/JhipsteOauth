@@ -1,0 +1,2 @@
+# JhipsteOauth
+init
